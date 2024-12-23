@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb13d3d618684d5ebc981fa718c2803b, type: 3}
+  m_Name: Alphabet_CardPack
+  m_EditorClassIdentifier: 
+  <Cards>k__BackingField:
+  - Name: A
+    ItemImage: {fileID: 4963718625464178563, guid: b28681c8018a0e34fa2b53ecd5b9a4fb, type: 3}
+  - Name: B
+    ItemImage: {fileID: 7783457984840754399, guid: b28681c8018a0e34fa2b53ecd5b9a4fb, type: 3}
+  - Name: C
+    ItemImage: {fileID: 3234300448368640894, guid: b28681c8018a0e34fa2b53ecd5b9a4fb, type: 3}
+  - Name: D
+    ItemImage: {fileID: 7911670913450602933, guid: b28681c8018a0e34fa2b53ecd5b9a4fb, type: 3}
+  - Name: E
+    ItemImage: {fileID: -6426668015567183463, guid: b28681c8018a0e34fa2b53ecd5b9a4fb, type: 3}
+  - Name: F
+    ItemImage: {fileID: 216406037199867053, guid: b28681c8018a0e34fa2b53ecd5b9a4fb, type: 3}
+  - Name: G
+    ItemImage: {fileID: -2756605603065543306, guid: b28681c8018a0e34fa2b53ecd5b9a4fb, type: 3}
+  - Name: H
+    ItemImage: {fileID: -8235857483100294123, guid: b28681c8018a0e34fa2b53ecd5b9a4fb, type: 3}
+  - Name: I
+    ItemImage: {fileID: 4652326554734856401, guid: b28681c8018a0e34fa2b53ecd5b9a4fb, type: 3}
+  - Name: J
+    ItemImage: {fileID: -3541686595128163680, guid: b28681c8018a0e34fa2b53ecd5b9a4fb, type: 3}
+  - Name: K
+    ItemImage: {fileID: -1127063002332224934, guid: b28681c8018a0e34fa2b53ecd5b9a4fb, type: 3}
+  <QuestDescription>k__BackingField: 'Find letter '
