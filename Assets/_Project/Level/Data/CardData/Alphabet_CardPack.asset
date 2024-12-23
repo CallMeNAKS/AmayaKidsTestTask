@@ -35,4 +35,4 @@ MonoBehaviour:
     ItemImage: {fileID: -3541686595128163680, guid: b28681c8018a0e34fa2b53ecd5b9a4fb, type: 3}
   - Name: K
     ItemImage: {fileID: -1127063002332224934, guid: b28681c8018a0e34fa2b53ecd5b9a4fb, type: 3}
-  <QuestDescription>k__BackingField: 'Find letter '
+  <QuestDescription>k__BackingField: Find letter
